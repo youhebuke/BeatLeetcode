@@ -1,0 +1,11 @@
+剑指offer题目序号
+链接
+重点思路
+
+leetcode_22_链表中倒数第k个节点
+https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+python_思路1：双指针法，第一个指针走k次，第二个指针开始走，直到第一个指针走到链表末尾。
+
+52
+https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
+这题解法比较巧妙，传统思路是用hash存visited与否的信息，但无法满足复杂度O(n)，巧妙之处详见题解。

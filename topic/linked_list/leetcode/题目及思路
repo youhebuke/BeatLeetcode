@@ -1,0 +1,4 @@
+21_合并两个有序链表
+https://leetcode-cn.com/problems/merge-two-sorted-lists/
+python_思路1：递归：终止条件、递归函数，选择两个list中当前头节点最小的，其next为其余节点的合并结果。
+
