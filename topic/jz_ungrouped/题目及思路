@@ -1,0 +1,14 @@
+题目：04 顺序排序的二维数组查找固定整数
+链接：https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/
+思路：找顺序排序的递增规律，经过O(m+n)次搜索即可。
+重要性：4 / 10
+
+题目：05 字符串中所有空格替换成"%20"
+链接：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+思路：这里新申请字符串不难，但是也可以在原字符串上修改实现O(1)空间利用率(感觉没卵用)。
+重要性：2 / 10
+
+题目：07 根据前序遍历及中序遍历重建二叉树
+链接：https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
+思路：主要是要先手写一下递归的流程，这个算法本身由于涉及到区域，因此把bound记录下来会更加便于计算。
+重要性：8 / 10
