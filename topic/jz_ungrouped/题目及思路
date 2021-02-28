@@ -12,3 +12,13 @@
 链接：https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
 思路：主要是要先手写一下递归的流程，这个算法本身由于涉及到区域，因此把bound记录下来会更加便于计算。
 重要性：8 / 10
+
+题目：09 用两个栈表示队列
+链接：https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+思路：本题要思考多次push和delete的情况，进而确定该使用什么策略来对栈进行操作，初见杀应该比较严重。
+重要性：9 / 10
+
+题目：11 旋转数组的最小数字
+链接：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
+思路：可以试试二分法
+重要性：3 / 10
