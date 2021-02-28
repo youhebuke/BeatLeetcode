@@ -22,3 +22,13 @@
 链接：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
 思路：可以试试二分法
 重要性：3 / 10
+
+题目：12 矩阵中的路径
+链接：https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
+思路：还是递归写起来方便一点
+重要性：5 / 10
+
+题目：13 机器人的运动范围
+链接：https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
+思路：标准的递归问题
+重要性：3 / 10
